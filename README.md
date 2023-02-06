@@ -2,8 +2,6 @@
 
 # Anastasiia Kravtsova
 
-![7wo-Ucfb4l9-NSFYIg2-C0-Zxw5-Rl-V0t-Ozvly-Fz-Vc-Lv8qxo-GB1f-Ec5-Iu-MXal-j-L7k-WTN-as-VUr-QDapvj-RX02-ATn-YDW.jpg](https://i.postimg.cc/4xGMHrZt/7wo-Ucfb4l9-NSFYIg2-C0-Zxw5-Rl-V0t-Ozvly-Fz-Vc-Lv8qxo-GB1f-Ec5-Iu-MXal-j-L7k-WTN-as-VUr-QDapvj-RX02-ATn-YDW.jpg)
-
 I am manual software tester
 
 Теперь перейдем на русский.
@@ -32,4 +30,6 @@ I am manual software tester
 Потому что мне нравится :heart:
 
 
-- ⚡ Fun fact: обожаю задачи по физике
+- ⚡ Fun fact: обожаю задачи по физике, фоткать на пленку и много читать 
+
+[![IMG-0760.jpg](https://i.postimg.cc/NjXw76Dy/IMG-0760.jpg)](https://postimg.cc/xX979bWY)
